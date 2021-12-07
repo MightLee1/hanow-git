@@ -1,7 +1,13 @@
-# 第一個markdown撰寫的程式
+# 好用的git指令集
 
-希望每次建立都要記得要打readme.md檔案
+* git add filename 新增git檔案
+* git add .        新增路徑下所有檔案至工作區
+* git rm filename  刪除git檔案
+* git mv filename1 filename2
+* git commit -m "變更內容說明"
+* git checkout
+* git branch
 
 
-> 這個是留言的寫法
+> 暫時想到的幾個git指令集
 >  [name=MightLee]
